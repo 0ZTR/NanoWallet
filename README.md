@@ -41,4 +41,4 @@ NCC is using a different way to generate the remote associated with an account. 
 <pre>gulp build-app</pre>
 
 ### Person IDE ###
-b95f082cd12952d9920e742f652cde78929d13a2bc9d0713c446374ffb09a050 Speace.io
+Speace
